@@ -1,3 +1,2 @@
 # Blue-Prism
 This BOT deals with the performing Audit for Blue Prism Projects. In this current code we have included checks for following points as a part of audit check – Work Queue, Environment Variables, Session Variables, Environment Locking, Logging, Exception Handling and IsStopRequested scenarios. This will check whether the mentioned criteria is followed or not. If it is not followed it will be listed in an excel file along with the process name and the criteria which is missing in that code.
-![image](https://user-images.githubusercontent.com/66307185/173116375-4890ad1c-01a4-4702-81de-762bb4f8f4b2.png)
